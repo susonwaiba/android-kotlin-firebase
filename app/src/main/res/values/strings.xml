@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin Firebase</string>
+
+    <string name="title_activity_startup">StartupActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_front2">Front2Activity</string>
+
+    <string name="title_activity_front">FrontActivity</string>
+</resources>
