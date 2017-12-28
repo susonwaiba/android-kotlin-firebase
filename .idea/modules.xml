@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KotlinFirebase.iml" filepath="$PROJECT_DIR$/KotlinFirebase.iml" />
+      <module fileurl="file://C:\Users\suson\AndroidStudioProjects\android-kotlin-firebase\KotlinFirebase.iml" filepath="C:\Users\suson\AndroidStudioProjects\android-kotlin-firebase\KotlinFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-kotlin-firebase.iml" filepath="$PROJECT_DIR$/android-kotlin-firebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\suson\AndroidStudioProjects\android-kotlin-firebase\app\app.iml" filepath="C:\Users\suson\AndroidStudioProjects\android-kotlin-firebase\app\app.iml" />
     </modules>
   </component>
 </project>
